@@ -1,0 +1,4 @@
+node_modules
+
+#Comment
+# -- *.txt means all files with .txt extension will be ignored
